@@ -9,5 +9,5 @@ Soit la base de données *Banque* contenant les tables suivantes:
 `
 
 > *->PK
-
+>
 > #->FK
