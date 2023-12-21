@@ -8,5 +8,5 @@ Soit la base de données *Banque* contenant les tables suivantes:
 * EMPRUNT (*Num_Emprunt, Num_Agence#, Num_Client#, Montant) 
 `
 
-> * PK
-> # FK
+> *->PK
+> #->FK
